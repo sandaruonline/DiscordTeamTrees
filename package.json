@@ -1,0 +1,25 @@
+{
+  "name": "TeamTrees",
+  "version": "1.0.0",
+  "description": "This application will display the number of trees planted by https://teamtrees.org/ in your Discord rich presence.",
+  "main": "src/TeamTrees.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "discord-rpc": "^3.1.0",
+    "node-fetch": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DedShotTM/DiscordTeamTrees"
+  },
+  "bugs": {
+    "url": "https://github.com/DedShotTM/DiscordTeamTrees/issues"
+  },
+  "homepage": "https://github.com/DedShotTM/DiscordTeamTrees#readme"
+}
